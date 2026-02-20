@@ -26,7 +26,7 @@ We all need to keep ourselves current on skills. Here are my notes on various co
 Bayesian inference for the binomial case
 
 ### Foundations of Data Science
-[Foundations of Data Science – Chapter 2](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch2.html)
+[High Dimensional Data](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch2.html)
 
 Markov's Inequality, Chebushev's Inequality, Law of Large Numbers, and other bounds
 
