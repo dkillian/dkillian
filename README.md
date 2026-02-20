@@ -1,6 +1,6 @@
 # Daniel Killian
 
-Impact evaluator | Applied economist | AI + ML for development
+Impact evaluator | Applied economist | Human sovereignty in an AI world
 
 ## About me
 
