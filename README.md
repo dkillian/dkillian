@@ -1,19 +1,25 @@
 # Daniel Killian
 
-Impact evaluator | Applied economist | Human sovereignty in an AI world
+Evaluation | Learning | Human sovereignty among the AI
 
 ## About me
 
 ## Current Focus
-- Independent evaluations (MCC, USAID)
-- Applied generative AI in monitoring & evaluation
-- R + Python + Quarto workflows
+- Searching for rebirth and reinvention
+- Independent evaluation
+- Finding parameters with meaning
+- Applied generative AI for program monitoring & evaluation and human flourishing
 
 ## Research Interests
-- Contribution analysis
-- Bayesian modeling
-- Fragility & governance
-- Text embeddings & RAG systems
+- What can be wrought from data + assumptions
+- Empirical methods in qualitative inquiry
+- The computational grasp of natural language
+
+# Sectoral Interests
+- Failed and fragile states
+- Human frontiers 
+
+# My work
 
 ## Writings
 
