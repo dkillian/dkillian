@@ -1,6 +1,6 @@
 # Daniel Killian
 
-Evaluation | Learning | Human sovereignty among the AI
+Evaluation | Learning | Human sovereignty
 
 ## About me
 
