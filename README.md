@@ -1,16 +1,14 @@
-## Hi there 👋
+# Daniel Killian
 
-<!--
-**dkillian/dkillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Impact evaluator | Applied economist | AI + ML for development
 
-Here are some ideas to get you started:
+## Current Focus
+- Independent evaluations (MCC, USAID)
+- Applied generative AI in monitoring & evaluation
+- R + Python + Quarto workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Contribution analysis
+- Bayesian modeling
+- Fragility & governance
+- Text embeddings & RAG systems
