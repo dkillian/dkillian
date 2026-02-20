@@ -15,11 +15,11 @@ Evaluation | Learning | Human sovereignty
 - Empirical methods in qualitative inquiry
 - The computational grasp of natural language
 
-# Sectoral Interests
+## Sectoral Interests
 - Failed and fragile states
 - Human frontiers 
 
-# My work
+## My work
 
 ## Writings
 
