@@ -24,7 +24,7 @@ We all need to keep ourselves current on skills. Here are my notes on various co
 <a href="https://dkillian.github.io/StatisticalRethinking/scripts/rethinking_ch2.html" 
    target="_blank"
    rel="noopener noreferrer"
-   Garden of Forking Data
+   📄Garden of Forking Data
 </a>
 
 [Garden of Forking Data](https://dkillian.github.io/StatisticalRethinking/scripts/rethinking_ch2.html)
@@ -36,3 +36,14 @@ Chapter 2 of Statistical Rethinking - Bayesian inference for the binomial case
 [Foundations of Data Science – Chapter 2](https://dkillian.github.io/foundations-of-data-science/Foundations-of-Data-Science_ch2.html)
 
 Markov's Inequality, Chebushev's Inequality, Law of Large Numbers, and other bounds
+<a href="https://yourusername.github.io/project/report.html" 
+   target="_blank" 
+   rel="noopener noreferrer">
+   📄 View Full Report
+</a>
+
+<a href="https://yourusername.github.io/project/report.html" 
+   target="_blank" 
+   rel="noopener noreferrer">
+   📄 View Full Report
+</a>
