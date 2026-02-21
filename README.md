@@ -22,7 +22,7 @@ Evaluation | Learning | Human sovereignty
 ## My work
 We've all had moments of grace in our professional lives[^1] - opportunities to learn, grow, and perform at exponential leaps from our existing skills or experience. I hope I've made the most of mine.. I do know that I have squandered at least one. The following is a selective list of my work history that is most meaningful to me. Note that meaningful does not necessarily mean successful, whatever that may mean and to whom.  
 
-[^1]: If you've been out in the world and have not yet experienced one of these, you are due. But also check yourself - it will never happen if you don't put yourself out there
+[^1]: If you've been out in the world a few years and have not yet experienced one of these, you are due. But also check yourself - it will never happen if you don't put yourself out there
 
 ### Corporate Social Responsibility in Bangladesh
 
