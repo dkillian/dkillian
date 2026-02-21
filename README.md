@@ -8,7 +8,7 @@ Evaluation | Learning | Human sovereignty
 - Searching for rebirth and reinvention
 - Independent evaluation
 - Finding parameters with meaning
-- Applied generative AI for program monitoring & evaluation and human flourishing
+- Applied generative AI for program monitoring & evaluation
 
 ## Research Interests
 - What can be wrought from data + assumptions
