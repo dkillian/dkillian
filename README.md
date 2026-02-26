@@ -79,6 +79,6 @@ A dense text focusing more on the mathematics used to do data science
 
    - Markov's Inequality, Chebushev's Inequality, Law of Large Numbers, and other bounds
 
-- [Chapter 3 - Singular Value Decomposition](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch3.html)
+- [Singular Value Decomposition](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch3.html)
 
    - Extracting essential structure from multivariate data
