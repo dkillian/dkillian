@@ -28,7 +28,7 @@ We've all had moments of grace in our professional lives[^1] - opportunities to 
 
 ### Advanced M&E Training
 
-### Libya Fragility Baseline
+### Assessing Fragility in Libya
 
 ### Tracking perception of USAID/USG
 
@@ -77,7 +77,7 @@ A dense text focusing more on the mathematics used to do data science
 
 - [High Dimensional Data](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch2.html)
 
-   - Markov's Inequality, Chebushev's Inequality, Law of Large Numbers, and other bounds
+   - Markov's Inequality, Chebyshev's Inequality, Law of Large Numbers, and other bounds
 
 - [Singular Value Decomposition](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch3.html)
 
