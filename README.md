@@ -27,12 +27,12 @@ I'm currently focused on the application of quantitative methods within the fram
 - Failed and fragile states
 - Human frontiers 
 
-## [My work]()
+## [My work](my%20work.md)
 We've all had moments of grace in our professional lives[^1] - opportunities to learn, grow, and perform at exponential leaps from our existing skills or experience. I hope I've made the most of mine.. I do know that I have squandered at least one. See the link for a selective list of my work history that is most meaningful to me. Note that meaningful does not necessarily mean successful, whatever that may mean and to whom.  
 
 [^1]: If you've been out in the world a few years and have not yet experienced one of these, you are due. But also check yourself - it will never happen if you don't put yourself out there
 
-## [My publications]()
+## [My publications](https://github.com/dkillian/dkillian/blob/main/my%20publications.md)
 
 Here is a selection of public documents showcasing my work. 
 
