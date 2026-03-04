@@ -4,6 +4,14 @@ Evaluation | Learning | Human sovereignty
 
 ## About me
 
+I work at the intersection of evaluation, data, and human judgment. My professional life has been shaped by the practice of monitoring, evaluation, and learning in complex environments —- often in places where institutions are fragile, evidence is incomplete, but decisions must proceed.
+
+My training is in applied economics, mixed-methods evaluation, and communications. I am interested in how assumptions, models, and evidence combine to produce claims about the world —- what can legitimately be inferred, but also with what level of inherent  uncertainty.
+
+My work has largely taken place in international development, including evaluations funded by USAID, the U.S. State Department, and other institutions. These projects have ranged from perception surveys and governance assessments to large program evaluations in fragile and conflict-affected settings.
+
+I'm currently focused on the application of quantitative methods within the framework of qualitative inquiry, the computational grasp of natural language, and how generative AI can deepen the scope upon which evaluators exercise human judgment.
+
 ## Current Focus
 - Searching for rebirth and reinvention
 - Independent evaluation
@@ -19,66 +27,20 @@ Evaluation | Learning | Human sovereignty
 - Failed and fragile states
 - Human frontiers 
 
-## My work
-We've all had moments of grace in our professional lives[^1] - opportunities to learn, grow, and perform at exponential leaps from our existing skills or experience. I hope I've made the most of mine.. I do know that I have squandered at least one. The following is a selective list of my work history that is most meaningful to me. Note that meaningful does not necessarily mean successful, whatever that may mean and to whom.  
+## [My work]()
+We've all had moments of grace in our professional lives[^1] - opportunities to learn, grow, and perform at exponential leaps from our existing skills or experience. I hope I've made the most of mine.. I do know that I have squandered at least one. See the link for a selective list of my work history that is most meaningful to me. Note that meaningful does not necessarily mean successful, whatever that may mean and to whom.  
 
 [^1]: If you've been out in the world a few years and have not yet experienced one of these, you are due. But also check yourself - it will never happen if you don't put yourself out there
 
-### Corporate Social Responsibility in Bangladesh
+## [My publications]()
 
-### Advanced M&E Training
+Here is a selection of public documents showcasing my work. 
 
-### Assessing Fragility in Libya
+## [My writing]()
 
-### Tracking perception of USAID/USG
+I spent a portion of my life writing freely. Here are the stories that came out of my MFA that I consider most developed. I suppose they could have gotten publication-ready with the help of an editor, but I didn't really try to get these stories published. 
 
-### Decentralization and devolution in Jordan
+Please don't judge me for stuff I wrote in my 20s. 
 
-### Stability in contested terrain
-
-### Justice through legal education
-
-### Global development alliances
-
-
-## Writings
-
-## Self-study
-We all need to keep ourselves current on skills. Here are my notes on various courses or textbooks. 
-
-### Statistical Rethinking (McElreath 2020)
-An intermediate text on Bayesian analysis
-
-- [Bayes Rule](https://dkillian.github.io/StatisticalRethinking/rethinking%202024/rethinking2024wk1.html)
-
-   - Deriving Bayes Rule and its use in a data analysis
-
-- [Garden of Forking Data](https://dkillian.github.io/StatisticalRethinking/scripts/rethinking_ch2.html)
-   
-   - Bayesian inference for the binomial case
-
-- [Sampling the imaginary](https://dkillian.github.io/StatisticalRethinking/scripts/rethinking_ch3.html)
-
-   - Conducting inference with samples from the posterior
-
-- [Geocentric models](https://dkillian.github.io/StatisticalRethinking/scripts/rethinking_ch4.html)
-
-   - Bayesian inference for the normal case
-
-- [The Good King Markov](https://dkillian.github.io/StatisticalRethinking/rethinking%202024/Good%20King%20Markov2.html)
-
-   - Metropolis algorithm
-     
-### Bayesian Data Analysis (Gelman et al 2018)
-Advanced text on Bayesian analysis
-
-### Foundations of Data Science (Blum et al 2020)
-A dense text focusing more on the mathematics used to do data science
-
-- [High Dimensional Data](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch2.html)
-
-   - Markov's Inequality, Chebyshev's Inequality, Law of Large Numbers, and other bounds
-
-- [Singular Value Decomposition](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch3.html)
-
-   - Extracting essential structure from multivariate data
+## [Self-study]()
+We all need to keep ourselves current on skills. See the link for a selection of my notes on various courses or textbooks. 
