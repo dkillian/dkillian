@@ -36,7 +36,7 @@ We've all had moments of grace in our professional lives[^1] - opportunities to 
 
 Here is a selection of public documents showcasing my work. 
 
-## [My writing](my writing.md)
+## [My writing](my%writing.md)
 
 I spent a portion of my life writing freely. Here are the stories that came out of my MFA that I consider most developed. I suppose they could have gotten publication-ready with the help of an editor, but I didn't really try to get these stories published. 
 
