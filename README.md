@@ -32,15 +32,15 @@ We've all had moments of grace in our professional lives[^1] - opportunities to 
 
 [^1]: If you've been out in the world a few years and have not yet experienced one of these, you are due. But also check yourself - it will never happen if you don't put yourself out there
 
-## [My publications](https://github.com/dkillian/dkillian/blob/main/my%20publications.md)
+## [My publications](my%20publications.md)
 
 Here is a selection of public documents showcasing my work. 
 
-## [My writing]()
+## [My writing](my writing.md)
 
 I spent a portion of my life writing freely. Here are the stories that came out of my MFA that I consider most developed. I suppose they could have gotten publication-ready with the help of an editor, but I didn't really try to get these stories published. 
 
 Please don't judge me for stuff I wrote in my 20s. 
 
-## [Self-study]()
+## [Self-study](self-study.md)
 We all need to keep ourselves current on skills. See the link for a selection of my notes on various courses or textbooks. 
