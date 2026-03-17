@@ -9,7 +9,7 @@ We've all had moments of grace in our professional lives[^1] - opportunities to 
 
 In 2024, the USAID Middle East Bureau asked MSI-Tetra Tech to draft a set of lectures on MEL topics. We were encouraged to highlight innovative approaches tried in the past, as well as present newer methods that may not yet have been incorporated into USAID policy and planning guidance. The result was a harrowing but also rewarding exercise in plumbing the depths of our past performance for examples of innovation, and bringing out toys from our sandboxes to show as potential future applications. 
 
-I was the lead trainer on this effort. See the [video playlist](https://www.youtube.com/playlist?list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ) as well as [my lectures](https://github.com/dkillian/USAIDMELWorkshop/README.md)
+I was the lead trainer on this effort. See the [video playlist](https://www.youtube.com/playlist?list=PLHwXAdVj07tsPrPqtiXY3a68vEc2OImkQ) as well as [my lectures](https://github.com/dkillian/USAIDMELWorkshop/)
 
 
 ### Assessing Fragility in Libya
