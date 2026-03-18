@@ -4,7 +4,7 @@ We all need to keep ourselves current on skills. Here's a compilation of my note
 ## Statistical Rethinking (McElreath 2020)
 An intermediate text on Bayesian analysis
 
-[Bayes Rule](https://dkillian.github.io/StatisticalRethinking/rethinking%202024/rethinking2024wk1.html) 
+[Bayes Rule](https://dkillian.github.io/StatisticalRethinking/rethinking%202024/rethinking2024wk1.html)  
 Deriving Bayes Rule and its use in a data analysis
 
 - [Garden of Forking Data](https://dkillian.github.io/StatisticalRethinking/scripts/rethinking_ch2.html)
