@@ -1,12 +1,12 @@
-## Self-study
+# Self-study
 We all need to keep ourselves current on skills. Here's a compilation of my notes on various courses or textbooks. 
 
-### Statistical Rethinking (McElreath 2020)
+## Statistical Rethinking (McElreath 2020)
 An intermediate text on Bayesian analysis
 
-- [Bayes Rule](https://dkillian.github.io/StatisticalRethinking/rethinking%202024/rethinking2024wk1.html)
-
-- Deriving Bayes Rule and its use in a data analysis
+[Bayes Rule](https://dkillian.github.io/StatisticalRethinking/rethinking%202024/rethinking2024wk1.html) 
+|
+Deriving Bayes Rule and its use in a data analysis
 
 - [Garden of Forking Data](https://dkillian.github.io/StatisticalRethinking/scripts/rethinking_ch2.html)
 
@@ -24,10 +24,7 @@ An intermediate text on Bayesian analysis
 
 - Metropolis algorithm
 
-### Bayesian Data Analysis (Gelman et al 2018)
-Advanced text on Bayesian analysis
-
-### Foundations of Data Science (Blum et al 2020)
+## Foundations of Data Science (Blum et al 2020)
 A dense text focusing more on the mathematics used to do data science
 
 - [High Dimensional Data](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch2.html)
@@ -37,3 +34,6 @@ A dense text focusing more on the mathematics used to do data science
 - [Singular Value Decomposition](https://dkillian.github.io/FoundationsDataScience/Foundations%20of%20Data%20Science_ch3.html)
 
 - Extracting essential structure from multivariate data
+
+## Bayesian Data Analysis (Gelman et al 2018)
+Advanced text on Bayesian analysis
