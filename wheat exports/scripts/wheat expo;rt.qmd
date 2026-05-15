@@ -1,0 +1,36 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: today
+toc: true
+toc-depth: 3
+number-sections: true
+format:
+  html:
+    code-fold: true
+    page-layout: full
+execute: 
+  keep-md: true
+  warning: false
+  message: false
+editor: visual
+reference-location: margin
+---
+
+```{r global_options, include=F, warning=F, message=F, echo=F, error=F}
+library(here)
+library(knitr)
+source("../../prep (May 2025).r")
+# sna masks gt::gt() — pin the correct one to the global environment
+gt <- gt::gt
+library(ggrepel)
+```
+
+## Introduction
+
+
+
+## Setup
+
+
