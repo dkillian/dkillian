@@ -5,13 +5,13 @@ We've all had moments of grace in our professional lives[^1] - opportunities to 
 
 ### Corporate Social Responsibility in Bangladesh
 
-In 2016, Chevron Corporation engaged Management Systems International (MSI), a Tetra Tech company, to provide independent monitoring and evaluation to the $10 million Bangladesh Partnership Initiative (BPI), a package of interventions for strengthening household livelihoods through small enterprise and workforce development. 
+In 2016, Chevron Corporation engaged Management Systems International (MSI), a Tetra Tech company, to provide independent monitoring and evaluation to the $10 million Bangladesh Partnership Initiative (BPI), a package of interventions for strengthening household livelihoods through village bank micro loans, and improving youth employment through vocational training and job placement.  
 
 MSI worked with Chevron and BPI implementing partners to develop a monitoring and evaluation framework measuring BPI inputs, outcomes, and impacts. This included regular site monitoring, stock-taking sessions among stakeholders, periodic surveys of vocational training graduates, and four rounds of a household panel survey of Chevron-funded village bank members as well as non-beneficiary households. 
 
 <img src="https://raw.githubusercontent.com/dkillian/dkillian/main/bpi/BPI%20income%20gain%20infographic%20crop.png"
      width="400"
-     style="float: right; margin: 0 0 10px 20px;" />
+     align="right" />
 
 After eight years, MSI found that Chevron's support to the Bangladesh Partnership Initiative increased total household income of village bank loan recipients by $2,300 in purchasing power parity, a 30-40 percent increase relative to the welfare trajectory of similar non-beneficiary households. Dynamic estimation across time period indicated that the effect of the loan was strongest 2-3 years after receipt, with a 77 percent increase in total household income. It was further found that Chevron-funded loan recipients increased household savings by $500 in purchasing power parity, and household loans by $850 in purchasing power parity.
      
