@@ -9,9 +9,18 @@ In 2016, Chevron Corporation engaged Management Systems International (MSI), a T
 
 MSI worked with Chevron and BPI implementing partners to develop a monitoring and evaluation framework measuring BPI inputs, outcomes, and impacts. This included regular site monitoring, stock-taking sessions among stakeholders, periodic surveys of vocational training graduates, and four rounds of a household panel survey of Chevron-funded village bank members as well as non-beneficiary households. 
 
-After eight years, MSI found that Chevron's support to the Bangladesh Partnership Initiative increased total household income of village bank loan recipients by $2,300 in purchasing power parity, a 30-40 percent increase relative to the welfare trajectory of similar non-beneficiary households. It was further found that Chevron-funded loan recipients increased household savings by $500 in purchasing power parity, and household loans by $850 in purchasing power parity. ![](https://raw.githubusercontent.com/dkillian/dkillian/main/bpi/BPI%20income%20gain%20infographic%20crop.png)
+<img src="https://raw.githubusercontent.com/dkillian/dkillian/main/bpi/BPI%20income%20gain%20infographic%20crop.png"
+     width="400"
+     style="float: right; margin: 0 0 10px 20px;" />
 
-Household income impact estimates were generated through Two Way Fixed Effects (TWFE) estimation. 
+After eight years, MSI found that Chevron's support to the Bangladesh Partnership Initiative increased total household income of village bank loan recipients by $2,300 in purchasing power parity, a 30-40 percent increase relative to the welfare trajectory of similar non-beneficiary households. Dynamic estimation across time period indicated that the effect of the loan was strongest 2-3 years after receipt, with a 77 percent increase in total household income. 
+
+It was further found that Chevron-funded loan recipients increased household savings by $500 in purchasing power parity, and household loans by $850 in purchasing power parity.
+     
+
+Household income impact estimates were generated through Two Way Fixed Effects (TWFE) estimation, tracking the same cohort of households across time period and village. Household level controls adjusted for household size, household shock incidence and severity, distance to Chevron gas plant, and pre-treatment household income. Additional robustness checks included a Bacon Decomposition assessing treatment timing heterogeneity, applying the Callaway-Sant’Anna estimators to recover dynamic cohort specific effects, and multilevel models to account for clustering at household and community levels. 
+
+As an observational study in which the assignment of treatment was not randomly assigned, pre-treatment differences between beneficiary and non-beneficiary households could account for some of the estimated i.
 
 ### Advanced MEL Workshop
 
