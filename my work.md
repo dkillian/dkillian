@@ -9,9 +9,9 @@ In 2016, Chevron Corporation engaged Management Systems International (MSI), a T
 
 MSI worked with Chevron and BPI implementing partners to develop a monitoring and evaluation framework measuring BPI inputs, outcomes, and impacts. This included regular site monitoring, stock-taking sessions among stakeholders, periodic surveys of vocational training graduates, and four rounds of a household panel survey of Chevron-funded village bank members as well as non-beneficiary households. 
 
-After eight years, MSI found that Chevron's support to the Bangladesh Partnership Initiative increased total household income of village bank loan recipients by $2,300 in purchasing power parity, a 30-40 percent increase relative to the welfare trajectory of similar non-beneficiary households. 
+After eight years, MSI found that Chevron's support to the Bangladesh Partnership Initiative increased total household income of village bank loan recipients by $2,300 in purchasing power parity, a 30-40 percent increase relative to the welfare trajectory of similar non-beneficiary households. It was further found that Chevron-funded loan recipients increased household savings by $500 in purchasing power parity, and household loans by $850 in purchasing power parity. ![](https://raw.githubusercontent.com/dkillian/dkillian/main/bpi/BPI%20income%20gain%20infographic%20crop.png)
 
-It was further found that Chevron-funded loan recipients increased household savings by $500 in purchasing power parity, and household loans by $850 in purchasing power parity. 
+Household income impact estimates were generated through Two Way Fixed Effects (TWFE) estimation. 
 
 ### Advanced MEL Workshop
 
