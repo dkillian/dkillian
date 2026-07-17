@@ -39,7 +39,7 @@ The performance monitoring approach uses strategic quantitative indicators, mile
 The Libya evaluation plan consists of three strategic evaluations (baseline, midline, and endline) and learning from activity-level evaluations and other studies. The learning plan is built around five agreed-upon learning priorities, from which the interagency developed learning questions that are used to inform potential evaluation questions, frame MEL findings, and plan learning activities with the interagency and partners. A core group of representatives from the interagency, in collaboration with the Libya External Office, the interagency Libya MEL Working Group, other USG stakeholders, and local partners, implements the MEL plan. 
 
 <img src="https://raw.githubusercontent.com/dkillian/dkillian/main/Libya GFA/Libya%20trends%20year.png"
-     width="400"
+     width="750"
      align="right" />
 
 The Libya evaluation plan consists of three strategic evaluations (baseline, midline, and endline) and learning from activity-level evaluations and other studies. The learning plan is built around five agreed-upon learning priorities, from which the interagency developed learning questions that are used to inform potential evaluation questions, frame MEL findings, and plan learning activities with the interagency and partners. A core group of representatives from the interagency, in collaboration with the Libya External Office, the interagency Libya MEL Working Group, other USG stakeholders, and local partners, implements the MEL plan. 
