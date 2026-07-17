@@ -17,7 +17,7 @@ After eight years, MSI found that Chevron's support to the Bangladesh Partnershi
      
 Household income impact estimates were generated through Two Way Fixed Effects (TWFE) estimation, tracking the same cohort of households across time period and village. Household level controls adjusted for household size, household shock incidence and severity, distance to Chevron gas plant, and pre-treatment household income. Additional robustness checks included a Bacon Decomposition assessing treatment timing heterogeneity, applying the Callaway-Sant’Anna estimators to recover dynamic cohort specific effects, and multilevel models to account for clustering at household and community levels. 
 
-As an observational study in which the assignment of treatment was not randomly assigned, pre-treatment differences between beneficiary and non-beneficiary households could account for some of the observed impacts. On average, beneficiary households had higher income, used more income generation streams, owned more assets, and reported more shocks to household income or livelihoods. Analytical methods might mitigate these and other validity threats, but never entirely eliminate them in observational studies. 
+As an observational study in which the assignment of treatment was not randomly assigned, pre-treatment differences between beneficiary and non-beneficiary households could account for some of the observed impacts. On average, beneficiary households had higher income, used more income generation streams, owned more assets, and reported more shocks to household income or livelihoods. Analytical methods might mitigate these and other validity threats, but can never entirely eliminate them in observational studies. 
 
 See [presentation]() for full detail. 
 
@@ -29,6 +29,20 @@ I was the lead trainer on this effort. See the [video playlist](https://www.yout
 
 
 ### Assessing Fragility in Libya
+
+In 2024, the interagency Libya Monitoring, Evaluation, and Learning (MEL) Working Group engaged MSI to help develop the country baseline report for the Global Fragility Act (GFA). 
+
+The Libya 10-year SPCPS Plan has four objectives: advancing its transition to a unified, democratically elected, stable political system; integration of the historically marginalized south; progressing towards a civilian-controlled, unified military and security apparatus; and fostering sustainable and equitable economic growth. 
+
+The performance monitoring approach uses strategic quantitative indicators, milestones, and qualitative assessments to measure progress towards the objectives and sub-objectives in the Libya SPCPS Plan. The monitoring plan also includes context indicators to track changes in the operating environment and process indicators to understand the effectiveness of SPCPS implementation management, as well as collaboration efforts with the USG interagency and partners. 
+
+The Libya evaluation plan consists of three strategic evaluations (baseline, midline, and endline) and learning from activity-level evaluations and other studies. The learning plan is built around five agreed-upon learning priorities, from which the interagency developed learning questions that are used to inform potential evaluation questions, frame MEL findings, and plan learning activities with the interagency and partners. A core group of representatives from the interagency, in collaboration with the Libya External Office, the interagency Libya MEL Working Group, other USG stakeholders, and local partners, implements the MEL plan. 
+
+<img src="https://raw.githubusercontent.com/dkillian/dkillian/main/Libya GFA/Libya%20trends%20year.png"
+     width="400"
+     align="right" />
+
+The Libya evaluation plan consists of three strategic evaluations (baseline, midline, and endline) and learning from activity-level evaluations and other studies. The learning plan is built around five agreed-upon learning priorities, from which the interagency developed learning questions that are used to inform potential evaluation questions, frame MEL findings, and plan learning activities with the interagency and partners. A core group of representatives from the interagency, in collaboration with the Libya External Office, the interagency Libya MEL Working Group, other USG stakeholders, and local partners, implements the MEL plan. 
 
 ### Tracking perception of USAID/USG
 
