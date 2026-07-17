@@ -30,19 +30,24 @@ I was the lead trainer on this effort. See the [video playlist](https://www.yout
 
 ### Assessing Fragility in Libya
 
+https://2021-2025.state.gov/stability-strategy/
+
+The landmark 2019 Global Fragility Act (“the Act”) presented a new and necessary opportunity for the U.S. Government to prioritize conflict prevention and transform how it partners with countries affected by fragility and conflict to foster a more peaceful and stable world [2022 'Prologue' to the GFA implementation strategy](https://2021-2025.state.gov/2022-prologue-to-the-united-states-strategy-to-prevent-conflict-and-promote-stability/). Learning from the United States’ decades-long stabilization experiences conflict-affected settings such as Afghanistan and Iraq, and consistent with the Act, the [2020 U.S. Strategy to Prevent Conflict and Promote Stability](https://2021-2025.state.gov/united-states-strategy-to-prevent-conflict-and-promote-stability/) (“the Strategy”) conceives of an integrated, evidence-based, prevention-focused, coherent and field-driven approach to address drivers of fragility that harm our partner nations and threaten U.S. national security. 
+
 In 2024, the interagency Libya Monitoring, Evaluation, and Learning (MEL) Working Group engaged MSI to help develop the country baseline report for the Global Fragility Act (GFA). 
 
 The Libya 10-year SPCPS Plan has four objectives: advancing its transition to a unified, democratically elected, stable political system; integration of the historically marginalized south; progressing towards a civilian-controlled, unified military and security apparatus; and fostering sustainable and equitable economic growth. 
 
 The performance monitoring approach uses strategic quantitative indicators, milestones, and qualitative assessments to measure progress towards the objectives and sub-objectives in the Libya SPCPS Plan. The monitoring plan also includes context indicators to track changes in the operating environment and process indicators to understand the effectiveness of SPCPS implementation management, as well as collaboration efforts with the USG interagency and partners. 
 
-The Libya evaluation plan consists of three strategic evaluations (baseline, midline, and endline) and learning from activity-level evaluations and other studies. The learning plan is built around five agreed-upon learning priorities, from which the interagency developed learning questions that are used to inform potential evaluation questions, frame MEL findings, and plan learning activities with the interagency and partners. A core group of representatives from the interagency, in collaboration with the Libya External Office, the interagency Libya MEL Working Group, other USG stakeholders, and local partners, implements the MEL plan. 
+In summer 2024, the LEO hosted a two-day learning summit with Washington-based representatives from USAID, State, and DoD, and including 80 program implementers, MEL partners, and local Libyan stakeholders.  The learning summit assessed nine drivers of instability in Libya as identified in the SPCPS plan, while emphasizing the interconnectedness of Libya’s development and security challenges.  It also introduced mis/dis/mal-information as a potential new driver of instability, reinforcing the need for a shift to address this issue and including an added focus on strategic communications.
 
 <img src="https://raw.githubusercontent.com/dkillian/dkillian/main/Libya GFA/Libya%20trends%20year.png"
      width="1000"
      align="center" />
 
-The Libya evaluation plan consists of three strategic evaluations (baseline, midline, and endline) and learning from activity-level evaluations and other studies. The learning plan is built around five agreed-upon learning priorities, from which the interagency developed learning questions that are used to inform potential evaluation questions, frame MEL findings, and plan learning activities with the interagency and partners. A core group of representatives from the interagency, in collaboration with the Libya External Office, the interagency Libya MEL Working Group, other USG stakeholders, and local partners, implements the MEL plan. 
+
+
 
 ### Tracking perception of USAID/USG
 
